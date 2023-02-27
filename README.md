@@ -1,2 +1,3 @@
 # MyGmSystemProject
-点击shift+ctrl+T键可修改imgui面板参数 imgui显示逻辑主要写在ShooterPlayerController文件中ShowImGui()中。
+下载方式，点击rar文件进入后，有download按钮可以下载完整的文件，直接下载可能出现文件损坏
+运行时点击shift+ctrl+T键可修改imgui面板参数 imgui显示逻辑主要写在ShooterPlayerController文件中ShowImGui()中。
